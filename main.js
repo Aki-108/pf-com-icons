@@ -5,8 +5,6 @@
 // @author       aki108
 // @match        http*://www.pillowfort.social
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Aki-108/pf-com-icons/main/main.js
-// @downloadURL  https://raw.githubusercontent.com/Aki-108/pf-com-icons/main/main.js
 // ==/UserScript==
 
 (function() {
